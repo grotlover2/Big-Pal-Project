@@ -1,0 +1,10 @@
+Pal/Pal/Build/Windows/FileOpenOrder
+Pal/Pal/Saved/Cooked
+Pal/Pal/Content/Python/.idea/
+Pal/Pal/Content/Python/__pycache__/
+Pal/Pal/Intermediate
+Pal/Pal/Saved
+
+Pal/Pal/Mod/dbg
+Pal/Pal/Mod/FatPals_P/*
+!Pal/Pal/Mod/FatPals_P/.gitkeep
