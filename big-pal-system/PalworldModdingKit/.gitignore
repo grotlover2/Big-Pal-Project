@@ -138,3 +138,8 @@ Plugins/Wwise
 
 # Explcitly ignore Mac DS_Store files, regardless of where they are
 .DS_Store
+
+# Python Ignores
+*/Python/__pycache__
+*/Python/.idea
+*/Python/venv
