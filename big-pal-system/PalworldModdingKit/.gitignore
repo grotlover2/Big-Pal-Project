@@ -143,3 +143,10 @@ Plugins/Wwise
 */Python/__pycache__
 */Python/.idea
 */Python/venv
+!*.py
+
+# Dont ignore .uasset files
+!*.uasset
+
+/Binaries
+/out

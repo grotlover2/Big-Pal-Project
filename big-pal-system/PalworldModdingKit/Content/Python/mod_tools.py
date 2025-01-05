@@ -40,7 +40,7 @@ def install_pak():
 
 def _get_mod_info():
     eal = unreal.EditorAssetLibrary()
-    asset_label = eal.load_asset('/Game/Label_WGTesting')
+    asset_label = eal.load_asset('/Game/Label_PalWgSystem')
     mod_name = asset_label.get_name().split('_')[1]
     chunk_id = asset_label.get_editor_property("rules").get_editor_property('ChunkId')
 
