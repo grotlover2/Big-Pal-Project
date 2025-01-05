@@ -8,3 +8,6 @@ Pal/Pal/Saved
 Pal/Pal/Mod/dbg
 Pal/Pal/Mod/FatPals_P/*
 !Pal/Pal/Mod/FatPals_P/.gitkeep
+
+Pal/Engine/Programs
+Pal/Engine/Saved
