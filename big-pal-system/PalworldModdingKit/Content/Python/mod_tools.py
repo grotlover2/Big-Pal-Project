@@ -26,8 +26,7 @@ def rename_pak():
 def install_pak():
     mod_name, chunk_id = _get_mod_info()
     mod_pak_path = pathlib.Path(f'{PAK_DIR}/{mod_name}.pak')
-    if not mod_pak_path.exists():
-        rename_pak()
+    rename_pak()
 
     pak_install_dir = pathlib.Path(f'{PALWORLD_PAK_DIR}/LogicMods/{mod_name}.pak')
     unreal.log(f'Copying mod to {pak_install_dir}...')
