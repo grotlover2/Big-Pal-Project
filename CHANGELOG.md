@@ -13,6 +13,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 ### Security
 
+## [0.5.1] - 2025-01-06
+### Changed
+- Updated PDK
+- Centralized the projects to one repo
+- Moved project to GitHub
+
 ## [0.5.0] - 2024-04-19
 ### Added
 - GrassRabbitMan
@@ -106,7 +112,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - SakuraSaurus
 - WeaselDragon
 
-[0.5.0]:
+[0.5.1]: TBD
+[0.5.0]: https://forum.weightgaming.com/uploads/short-url/nhgDBE1XuhHWqVpCOMGou2bljtT.zip
 [0.4.1]: https://forum.weightgaming.com/uploads/short-url/yRTQTgPWe5TU7JHGbVT6MnyoEue.zip
 [0.4.0]: https://forum.weightgaming.com/uploads/short-url/h7EGCxyHNMogARogJBsebh2xRFo.zip
 [0.3.0]: https://forum.weightgaming.com/uploads/short-url/uYEQyurmV7xu0mpvuoqOmkRNIVa.zip

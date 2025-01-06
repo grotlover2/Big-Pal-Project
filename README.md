@@ -35,6 +35,19 @@ This project holds the game logic portion of the mod that modifies the shape key
 ## Contributions
 All current and future contributions are under the MIT or CC0 licenses, whichever is most appropriate for that contribution.
 
+## Useful Modding Resources
+https://pwmodding.wiki/docs/intro
+
+https://youtu.be/NESKhITrbgI
+
+https://docs.ue4ss.com/dev/guides/creating-a-c++-mod.html
+
+https://docs.ue4ss.com/index.html
+
+https://github.com/KURAMAAA0/PalModding/blob/main/PalNamesCodeNames.txt
+
+https://pwmodding.wiki/docs/game-data/monster-table
+
 ## Original Team Credits
 ### 3D Modeling
 - ExtrudedSquared
@@ -60,6 +73,9 @@ All current and future contributions are under the MIT or CC0 licenses, whicheve
 - Are you planing on expanding the system?
   - No. We wanted to implement a more in depth weight gain system but after looking into it we found that it would be to difficult to do what we wanted to do with the current setup of PalWorld and we could not figure out how to make it MP compatible without doing some weird hacks. Maybe if an official modding API is released or there are further developments to the PMK that could support the features we wanted I may reevaluate it.
 
+- Are there plans for the players to also gain weight?
+  - No, not at the moment at least. We did evaluate it and think it is possible to do that, but we never got anyone to modify the models for it. If some one provides modified player models with the expected shape keys I could look back into it.
+
 - Why was the project moved to open source?
   - The main reason is development stalled out, mainly with creating new models. By open sourcing the project we hope that some development can continue by allowing community members to contribute to the project if they wish.
 
@@ -76,7 +92,13 @@ All current and future contributions are under the MIT or CC0 licenses, whicheve
   - Yes, you can do that! You can either fork this project if you want full control or you can create a new model replacement pak with your own models and use our [big-pal-system]. See [big-pal-models] for more information on replacing models and setting them up to work with the [big-pal-system].
 
 - Can I do inflation/muscle expansion/some other growth or expansion with this system?
-  - I would need to consider if we would want to include multiple expansion options, but for personal use yes, you just need to modify the models to look the way you want. As long as they have the required shape keys on them the system will adjust what ever expansion you decided to do with the pals hunger. See the [big-pal-models] project for more details.
+  - I would need to consider if we would want to include multiple expansion options in the mod proper, but for personal use yes, you just need to modify the models to look the way you want. As long as they have the required shape keys on them the system will adjust what ever expansion you decided to do with the pals hunger. See the [big-pal-models] project for more details.
+
+- I dont see a pal on the issue board. Should it be on there?
+  - The issue board is not an exhaustive list of all the pals and is really only up to date for when the project was started. If you see a pal missing feel free to add it to the board.
+
+- I found a bug, what should I do?
+  - Open an issue for it and label it as a bug. If its anything code or configuration related I will try to fix it but no promises for anything model related.
 
 [big-pal-models]: https://github.com/grotlover2/Big-Pal-Project/tree/main/big-pal-models
 [big-pal-system]: https://github.com/grotlover2/Big-Pal-Project/tree/main/big-pal-system
