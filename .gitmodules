@@ -1,0 +1,3 @@
+[submodule "big-pal-models/Pal/Pal/Mod/UnrealPak"]
+	path = big-pal-models/Pal/Pal/Mod/UnrealPak
+	url = https://github.com/RiotOreO/unrealpak.git

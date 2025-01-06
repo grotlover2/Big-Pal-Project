@@ -1,0 +1,6 @@
+#include "PalMapObjectBaseCampPassiveEffectWorkHardParameterComponent.h"
+
+UPalMapObjectBaseCampPassiveEffectWorkHardParameterComponent::UPalMapObjectBaseCampPassiveEffectWorkHardParameterComponent(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {
+}
+
+
