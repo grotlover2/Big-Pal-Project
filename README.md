@@ -16,6 +16,7 @@ https://forum.weightgaming.com/t/big-pal-project-0-5-a-weight-gain-mod-for-palwo
 ### Dev Setup
 1. Install Unreal Engine 5.1 if not already installed
 2. Clone or download this repo
+  - **NOTE:** If you choose to use git to clone the repo, you need git LFS enabled to pull down the `fbx` files.
 3. Install the Wwise plugin into [big-pal-system]. Instructions can be found [here](https://pwmodding.wiki/docs/palworld-modding-kit/install-part-1#wwise).
 4. You should be able to now open the unreal project for either [big-pal-models] or [big-pal-system].
 5. Enable python tools in UE to make use of the custom tools and build scripts if not already enabled.

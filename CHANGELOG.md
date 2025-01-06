@@ -112,7 +112,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - SakuraSaurus
 - WeaselDragon
 
-[0.5.1]: TBD
+[0.5.1]: https://github.com/grotlover2/Big-Pal-Project/releases/tag/v0.5.1
 [0.5.0]: https://forum.weightgaming.com/uploads/short-url/nhgDBE1XuhHWqVpCOMGou2bljtT.zip
 [0.4.1]: https://forum.weightgaming.com/uploads/short-url/yRTQTgPWe5TU7JHGbVT6MnyoEue.zip
 [0.4.0]: https://forum.weightgaming.com/uploads/short-url/h7EGCxyHNMogARogJBsebh2xRFo.zip
